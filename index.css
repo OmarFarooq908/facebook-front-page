@@ -1,0 +1,83 @@
+body,
+html {
+	height: 100%;
+}
+.fb-bg-color {
+	background-color: #f0f2f5;
+}
+
+.h-80 {
+	height: 80%;
+}
+.h-20 {
+	height: 20%;
+}
+.logo {
+	width:40%;
+	height:auto;
+}
+.marge-l-30 {
+	margin-top:5%;
+	margin-left:16%;
+	margin-right:16%;
+}
+
+.padder {
+	padding-top:10%;
+	padding-left: 0;
+}
+.description-signin {
+	font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+	font-size: 28px;
+	font-weight: normal;
+}
+.sign-in {
+	height: 100%;
+	border: none;
+	box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
+	border-radius: 8px;
+	padding:10px;
+}
+.fields {
+	border-radius: 6px;
+	border: 1px solid #dddfe2;
+	color: #1d2129;
+	vertical-align: middle;
+	width: auto;
+}
+.padder-2 {
+	padding-left:10px;
+	padding-top:10px;
+}
+.login {
+	background-color: #1877f2;
+	border-radius: 6px;
+	font-weight: bold;
+	text-align: center;
+	text-shadow: none;
+	vertical-align: middle;
+}
+.forgotten {
+	background-color: #1877f2;
+}
+.create-account {
+	background-color: #36a420;
+	border-color: #36a420;
+}
+.celeb {
+	color: #1c1e21;
+}
+.celeb-link {
+	color: #1c1e21;
+	font-weight: bold;
+	text-decoration: none;
+}
+.celeb-link:hover {
+	text-decoration: underline;
+}
+.footer {
+	color: #737373
+}
+.links-footer ul li {
+	display: inline;
+}
